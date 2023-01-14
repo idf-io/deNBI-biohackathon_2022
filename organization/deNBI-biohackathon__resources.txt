@@ -1,0 +1,4 @@
+Webpage				https://www.denbi.de/de-nbi-events/1454-biohackathon-germany
+deNBI project description	https://www.denbi.de/de-nbi-events/2-uncategorised/1481-establishing-workflows-for-the-analysis-of-spatial-transcriptomics-data
+Project webpage			https://spatialhackathon.github.io/
+

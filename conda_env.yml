@@ -1,0 +1,11 @@
+name: stereoSeq
+channels:
+-   conda-forge
+-   bioconda
+-   numba
+-   grst
+-   stereopy
+dependencies:
+-   python
+-   stereopy
+-   jupyterlab
